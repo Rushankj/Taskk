@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rushankj/Taskk.git/static/css/main.e72e4640.css",
+    "main.js": "/Rushankj/Taskk.git/static/js/main.4f0c85a1.js",
+    "static/js/488.e351fb66.chunk.js": "/Rushankj/Taskk.git/static/js/488.e351fb66.chunk.js",
+    "index.html": "/Rushankj/Taskk.git/index.html",
+    "main.e72e4640.css.map": "/Rushankj/Taskk.git/static/css/main.e72e4640.css.map",
+    "main.4f0c85a1.js.map": "/Rushankj/Taskk.git/static/js/main.4f0c85a1.js.map",
+    "488.e351fb66.chunk.js.map": "/Rushankj/Taskk.git/static/js/488.e351fb66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e72e4640.css",
+    "static/js/main.4f0c85a1.js"
+  ]
+}
